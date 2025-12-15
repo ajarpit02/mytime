@@ -13,7 +13,7 @@ def now(a,b):
 def multiply(a, b):
     return a * b
 
-
+print("hello")
 def divide(a, b):
     if b == 0:
         raise ValueError("Cannot divide by zero")
