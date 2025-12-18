@@ -12,7 +12,7 @@ def now(a,b):
     
 def multiply(a, b):
     return a * b
-
+print("a")
 
 def divide(a, b):
     if b == 0:
