@@ -9,7 +9,7 @@ def subtract(a, b):
 
 def now(a,b):
     return 
-    
+print("a")    
 def multiply(a, b):
     return a * b
 
