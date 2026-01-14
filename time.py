@@ -1,1 +1,2 @@
-time
+def integrate():
+  print("5")
